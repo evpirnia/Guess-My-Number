@@ -7,7 +7,6 @@ A Guess-My-Number implementation in Lisp. The user picks a number from 1 to 100 
 $ clisp
 > load(epirnia1.lisp);
 > (guess-my-number)
->
 ```
 
 ## Start a New Game
